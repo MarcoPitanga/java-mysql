@@ -1,4 +1,4 @@
-package br.com.unisuam.view;
+package view;
 
 import java.awt.EventQueue;
 import java.awt.Font;
@@ -14,8 +14,8 @@ import javax.swing.JTextField;
 import javax.swing.SwingConstants;
 import javax.swing.border.EmptyBorder;
 
-import br.com.unisuam.dao.UsuarioDAO;
-import br.com.unisuam.model.Usuario;
+import dao.UsuarioDAO;
+import model.Usuario;
 
 public class Aplicacao extends JFrame {
 

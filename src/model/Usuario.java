@@ -1,4 +1,4 @@
-package br.com.unisuam.model;
+package model;
 
 public class Usuario {
 	//Atributos

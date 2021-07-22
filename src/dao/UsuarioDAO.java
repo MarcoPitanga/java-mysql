@@ -1,4 +1,4 @@
-package br.com.unisuam.dao;
+package dao;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -7,8 +7,8 @@ import java.util.ArrayList;
 
 import javax.swing.JOptionPane;
 
-import br.com.unisuam.factory.ConnectionFactory;
-import br.com.unisuam.model.Usuario;
+import factory.ConnectionFactory;
+import model.Usuario;
 
 public class UsuarioDAO {
 	

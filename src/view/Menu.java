@@ -1,4 +1,4 @@
-package br.com.unisuam.view;
+package view;
 
 import java.awt.Color;
 import java.awt.Font;
@@ -12,7 +12,7 @@ import javax.swing.JPanel;
 import javax.swing.SwingConstants;
 import javax.swing.border.EmptyBorder;
 
-import br.com.unisuam.model.Usuario;
+import model.Usuario;
 
 public class Menu extends JFrame {
 
